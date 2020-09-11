@@ -5,7 +5,7 @@
 </p>
 
 <!--- Descrição do Projeto-->
-<p align="center">Projeto desenvolvido para treinar habilidades em Reactjs consumindo a APi dp Github. </p>
+<p align="center">Projeto desenvolvido para treinar habilidades em Reactjs consumindo a APi do Github. </p>
 
 ## Imagens frontend WEB
 
@@ -35,7 +35,7 @@ git clone https://github.com/K4ME/Github-Explorer.git
 Instale as depedências
 
 ```sh
-yarn install
+yarn
 ```
 
 Rode a aplicação
