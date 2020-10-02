@@ -28,6 +28,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Acesse o projeto e confira seu funcionamento:
 [explore-git.netlify.app](https://explore-git.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38d06e3c-4ad5-4b10-a19a-2625247cba34/deploy-status)](https://app.netlify.com/sites/explore-git/deploys)
+
 
 ## 👷 Como rodar
 
