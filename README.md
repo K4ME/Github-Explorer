@@ -22,6 +22,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled-Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 
+
+## 🚀 Funcionamento
+
+Acesse o projeto e confira seu funcionamento:
+[explore-git.netlify.app](https://explore-git.netlify.app/)
+
+
 ## 👷 Como rodar
 
 Clone o Repositório
